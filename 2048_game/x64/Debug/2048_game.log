@@ -1,0 +1,10 @@
+﻿  2048_game.cpp
+  AnimatedCell_class.cpp
+C:\Users\Magnit96\source\repos\2048_game\2048_game\AnimatedCell_class.cpp(8,18): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Magnit96\source\repos\2048_game\2048_game\AnimatedCell_class.cpp(9,18): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  Cell_class.cpp
+C:\Users\Magnit96\source\repos\2048_game\2048_game\Cell_class.cpp(26,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Game_class.cpp
+C:\Users\Magnit96\source\repos\2048_game\2048_game\Game_class.cpp(127,22): warning C4244: аргумент: преобразование "ULONGLONG" в "unsigned int", возможна потеря данных
+  Создание кода...
+  2048_game.vcxproj -> C:\Users\Magnit96\source\repos\2048_game\x64\Debug\2048_game.exe
